@@ -1,1 +1,1 @@
-shell permissions tasks
+shell permissions 0x01 project
